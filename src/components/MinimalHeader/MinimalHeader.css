@@ -1,0 +1,25 @@
+.minimal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: white;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.minimal-header-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #4169e1;
+  text-decoration: none;
+}
+
+.minimal-header-link {
+  font-size: 1rem;
+  color: #4169e1;
+  text-decoration: none;
+}
+
+.minimal-header-link:hover {
+  text-decoration: underline;
+}
