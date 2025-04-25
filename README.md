@@ -47,7 +47,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## 📜 License
 
-This project is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0)**.
+This project is protected under a **Custom Proprietary License**.
 
-© 2025 Tanish Khot. You may view and share this project **without modification or reuse**.  
-🔗 [View license](https://creativecommons.org/licenses/by-nd/4.0/)
+You may **view the code** for reference purposes only.  
+**No reuse, modification, or redistribution is allowed** without prior written consent.
+
+© 2025 Tanish Khot. All rights reserved.  
+Contact: tanishkhot45@gmail.com
